@@ -1,0 +1,1 @@
+echo '[*] Synchronizacja AI...'

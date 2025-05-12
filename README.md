@@ -1,1 +1,1 @@
-# bestia254-core
+# BESTIA 254 CORE
